@@ -6,7 +6,6 @@ var Nav = React.createClass({
     onSearch: function(e){
         e.preventDefault();
         var location = this.refs.location.value;
-        debugger;
         console.log(location);
     },
     render: function () {
