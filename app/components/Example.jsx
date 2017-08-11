@@ -6,7 +6,7 @@ var Example = (props) => {
     return (
        <div>
            <h3>Example Component</h3>
-           <p>Welcome to example component</p>
+           <p>Welcome to example component!</p>
        </div>
     );
 };
